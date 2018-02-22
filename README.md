@@ -7,6 +7,6 @@ The end goal of this project is to customize the Udacity Carnival project. The U
 ## Versions
 - [Unity Patch 2017.2.0f3](https://unity3d.com/unity/qa/patch-releases?version=2017.1)
 - [GVR Unity SDK v1.70.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/1.70.0)
-- TextMesh Pro v1.0.55.2017.1.0b12 (*provided*)
+
 
 
